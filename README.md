@@ -9,6 +9,7 @@ This is an digital 7 segment clock controlled with an Arduino and an android sma
   5. 1.5m WS2811 LED-Strip
   6. wires
   7. 4 nails
+  8. 16 M3*5+ bolts with nuts
 
 
 ## Step by step guide:
@@ -24,7 +25,7 @@ This is an digital 7 segment clock controlled with an Arduino and an android sma
   3. Upload the Arduino Sketch to the Arduino.
   4. solder the components as shown in the following picture:
 
-![PlanFertig](https://user-images.githubusercontent.com/69114845/122442273-b1d15300-cf9e-11eb-94dd-5c9bc9d7a1d7.jpg)
+![PlanFinal](https://user-images.githubusercontent.com/69114845/122635437-38437d00-d0e4-11eb-9e60-0bb8e9e43dc1.jpg)
 
 4. Download the Android App from the Google Play Store:
 https://play.google.com/store/apps/details?id=com.JanFehnl.Uhr
