@@ -9,6 +9,7 @@ This is an digital 7 segment clock controlled with an Arduino and an android sma
   5. 1.5m WS2811 LED-Strip
   6. wires
   7. 4 nails
+  8. 16 M3*5+ bolts with nuts
 
 
 ## Step by step guide:
