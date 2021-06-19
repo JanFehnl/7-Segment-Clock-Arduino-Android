@@ -1,4 +1,4 @@
-# 7-Segment-Clock-Arduino-Android
+# 7 Segment Clock Arduino Android
 This is an digital 7 segment clock controlled with an Arduino and an android smartphone via Bluetooth.
 
 ## Required Components:
@@ -20,7 +20,7 @@ This is an digital 7 segment clock controlled with an Arduino and an android sma
         - 1 * MainRO.stl
         - 2 * Middle.stl
       - White:
-        - 30 * Segment.stl
+        - 30 * Segment.stl (Layer Height = 0.1mm && Vase Mode on)
   3. Upload the Arduino Sketch to the Arduino.
   4. solder the components as shown in the following picture:
 
