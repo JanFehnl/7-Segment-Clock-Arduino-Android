@@ -1,5 +1,5 @@
 # 7 Segment Clock Arduino Android
-This is an digital 7 segment clock controlled with an Arduino and an android smartphone via Bluetooth.
+This is an digital 7 segment clock controlled with an Arduino and an android smartphone via Bluetooth. You don't need a real time clock module.
 
 ## Required Components:
   1. Arduino Nano or similar
@@ -29,6 +29,8 @@ This is an digital 7 segment clock controlled with an Arduino and an android sma
 
 4. Download the Android App from the Google Play Store:
 https://play.google.com/store/apps/details?id=com.JanFehnl.Uhr
+
+5. If the time is not exact, then change the value of the variable "TimeCorrection" in the Arduino Sketch so that the deviation of the time is as small as possible. If the clock is slow, then increase the value slightly, if the clock is fast, then decrease the value of the variable.
 
 
 ① If you have the Arduino outside the clock and only need the three cables to the LED strip, then use V1. If you want to mount the Arduino and the terminal of the 12V power supply inside the clock, then print V2 to be able to lead the two cables into the clock.
