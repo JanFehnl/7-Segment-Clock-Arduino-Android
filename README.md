@@ -15,7 +15,7 @@ This is an digital 7 segment clock controlled with an Arduino and an android sma
 ## Step by step guide:
   1. 3D print the clock
       - Black:
-        - 1 * MainLO.stl
+        - 1 * MainLO.stl ①
         - 1 * MainLI.stl
         - 1 * MainRI.stl
         - 1 * MainRO.stl
@@ -29,3 +29,6 @@ This is an digital 7 segment clock controlled with an Arduino and an android sma
 
 4. Download the Android App from the Google Play Store:
 https://play.google.com/store/apps/details?id=com.JanFehnl.Uhr
+
+
+① If you have the Arduino outside the clock and only need the three cables to the LED strip, then use V1. If you want to mount the Arduino and the terminal of the 12V power supply inside the clock, then print V2 to be able to lead the two cables into the clock.
